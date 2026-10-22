@@ -1,0 +1,6 @@
+{
+  "name": "AICTE-SVRS: APAAR-based Student Verification & Records System",
+  "description": "Smart India Hackathon 2026: National APAAR/ABC-integrated student record verification, anomaly detection, intake compliance, and consent-based credential verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
